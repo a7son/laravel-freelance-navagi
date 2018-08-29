@@ -13,9 +13,9 @@
     <!-- Plugin CSS -->
     <link href="{{ URL::asset('magnific-popup/magnific-popup.css') }}" rel="stylesheet" type="text/css">
 
-    <!-- Custom styles for this template -->    
-    
-    <link rel="stylesheet" href="{{ URL::asset('css/freelancer.min.css') }}">
+    <!-- Custom styles for this template -->
+
+    <link rel="stylesheet" href="{{ URL::asset('css/freelancer.min.css') }}">   
 
 </head>
 
